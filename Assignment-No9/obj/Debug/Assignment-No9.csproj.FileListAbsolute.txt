@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Assignment-No9\Assignment-No9\bin\Debug\Assignment-No9.exe.config
+C:\Users\HP\source\repos\Assignment-No9\Assignment-No9\bin\Debug\Assignment-No9.exe
+C:\Users\HP\source\repos\Assignment-No9\Assignment-No9\bin\Debug\Assignment-No9.pdb
+C:\Users\HP\source\repos\Assignment-No9\Assignment-No9\obj\Debug\Assignment-No9.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Assignment-No9\Assignment-No9\obj\Debug\Assignment-No9.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Assignment-No9\Assignment-No9\obj\Debug\Assignment-No9.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Assignment-No9\Assignment-No9\obj\Debug\Assignment-No9.exe
+C:\Users\HP\source\repos\Assignment-No9\Assignment-No9\obj\Debug\Assignment-No9.pdb
